@@ -54,5 +54,6 @@ My passion for cybersecurity, fueled by my computer science background, has led 
 </div>
 
 ## Projects
+- Active directory
 - Detection Lab
 - SOC Automation Project
