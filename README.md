@@ -46,11 +46,8 @@ My passion for cybersecurity, fueled by my computer science background, has led 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-<a href="https://www.credly.com/badges/15e8177a-2ce6-4893-b6a5-bf5d28bb7f26/linked_in_profile"><img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/15e8177a-2ce6-4893-b6a5-bf5d28bb7f26/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
