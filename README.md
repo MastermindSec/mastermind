@@ -18,6 +18,13 @@ My passion for cybersecurity, fueled by my computer science background, has led 
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Email Threat Analysis: A Comprehensive Approach       | <a href="https://github.com/MastermindSec/mastermind/blob/main/Email%20analysis.md">Email Analysis Lab</a>|
 
+## Projects
+| Labs                                     | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|  Active directory| 
+|  Detection Lab|
+|  SOC Automation Project |<a href="https://github.com/MastermindSec/mastermind/blob/main/Wazuh.md">SOC Automation  Lab</a>|
+
 
 ## Tools
 
@@ -46,8 +53,3 @@ My passion for cybersecurity, fueled by my computer science background, has led 
 <div>
 <a href="https://www.credly.com/badges/15e8177a-2ce6-4893-b6a5-bf5d28bb7f26/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
-## Projects
-- Active directory
-- Detection Lab
-- SOC Automation Project
